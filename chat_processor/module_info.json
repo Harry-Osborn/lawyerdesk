@@ -1,0 +1,27 @@
+[
+  {
+    "module_name": "quick_writer",
+    "module_id": 32,
+    "table_name": "doc_writer.quick_writer"
+  },
+  {
+    "module_name": "cross_examination",
+    "module_id": 33,
+    "table_name": "cross_examination.cross_examin"
+  },
+  {
+    "module_name": "agreement_writer",
+    "module_id": 16,
+    "table_name": "documentation.agreement_writer"
+  },
+  {
+    "module_name": "case_research",
+    "module_id": 3,
+    "table_name": "research.legal_research"
+  },
+  {
+    "module_name": "document_writer",
+    "module_id": 4,
+    "table_name": "doc_writer.sessions"
+  }
+]
